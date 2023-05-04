@@ -1,5 +1,5 @@
 # Inventory-Replenishment-Using-Deep-Reinforcement-Learning
-Making Inventory Replenishment Decisions Using Reinforcement Learning Methods as part of the AI in Logistics course in TU/e.
+Making Inventory Replenishment Decisions Using Reinforcement Learning Methods as part of the AI for Logistics course in TU/e.
 
 **Assignment 1:** A small inventory replenishment problem with 3 stores and stochastic demands that is solvable to optimality using tabular methods. Transportation costs are excluded.
 
